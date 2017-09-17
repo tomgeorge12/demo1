@@ -6,7 +6,8 @@
   padding-top: 10px;
   border-color: #000000;
   background-color: #8caec8;
-  background-image: url('/images/bgMain.jpg');
+  background-image: url('/images/bgMain2.jpg');
+  background-repeat: repeat;
 }
 
 .header{
@@ -15,8 +16,9 @@
   position: relative;
 	max-width: 906px;
 	margin: auto;
-  background-image: url('/images/body.jpg');
-
+  background-image: url('/images/stjude.jpg');
+  background-position: center;
+  background-size: cover;
 }
 .tableMain{
   padding-bottom: 250px;
