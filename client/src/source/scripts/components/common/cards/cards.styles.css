@@ -1,0 +1,87 @@
+
+/*.home-container {
+  padding-right: 250px;
+  padding-bottom: 250px;
+  padding-left: 150px;
+  padding-top: 150px;
+  border-color: #000000;
+  background-color: #8caec8;
+}
+
+.all-cards-section{
+  margin-bottom: 300px;
+  padding-bottom: 250px;
+  background-color: #ffffff;
+  position: relative;
+	max-width: 906px;
+	margin: 20px auto;
+}
+
+.card-one{
+  height: 60px;
+  width: 250px;
+  display: inline-block;
+  margin: 8px;
+  background-color: #298aa3;
+}
+
+.card-two{
+  height: 100px;
+  display: inline-block;
+  position: s;
+  width: 130px;
+  margin: 8px;
+  background-color: #ad2828;
+}*/
+
+.card-wid {
+  width: 100%;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+  transform: translateZ(0);
+  background-color: #bbbb28;
+
+}
+
+.card-len {
+  width: 100px;
+  height: 40px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-bottom: 20px;
+  margin: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+  transform: translateZ(0);
+  background-color: #ad2828;
+}
+
+.card-med {
+  width: 70px;
+  height: 80px;
+  box-sizing: border-box;
+  display: inline-block;
+  /*margin-bottom: 20px;*/
+  margin: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+  transform: translateZ(0);
+  background-color: #298aa3;
+}
+
+.card-min {
+  width: 70px;
+  height: 80px;
+  box-sizing: border-box;
+  display: inline-block;
+  /*margin-bottom: 20px;*/
+  margin: 8px;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+  transform: translateZ(0);
+  background-color: #200ba3;
+}
+
+.img{
+  width:20px;
+  height: 20px;
+}
