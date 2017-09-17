@@ -10,11 +10,11 @@ class Home extends Component {
     this.cardData = {
       // row1
       "section1":[
-        {className:'col-md-2', title:"Home"},
-        {className:'col-md-1 ', title:"Activities"},
-        {className:'col-md-1', title:"Liturgy"},
-        {className:'col-md-3', title:"Sacraments"},
-        {className:'col-md-1', title:"Pastoral"}
+        {className:'col-md-2', title:"Home", image:'./images/home.png',width:"80", height:"80"},
+        {className:'col-md-1 ', title:"Activities",image:'./images/home.png',width:"60", height:"70"},
+        {className:'col-md-1', title:"Liturgy",image:'./images/home.png',width:"60", height:"60"},
+        {className:'col-md-3', title:"Sacraments",image:'./images/home.png',width:"40", height:"50"},
+        {className:'col-md-1', title:"Pastoral",image:'./images/home.png',width:"80", height:"80"}
       ],
       "section2":[
         {className:'cardDouble', title:"Pastoral Team"}

@@ -12,6 +12,7 @@ class CardMin extends Component {
     return (
         <div className={this.props.className ? this.props.className :'card-min'}>
           {this.props.title}
+          {this.props.image && <img src={this.props.image} width={this.props.width} height={this.props.height}/>}
         </div>
     );
   }

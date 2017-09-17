@@ -20,7 +20,7 @@ class  Card extends Component {
               {_.map(this.props.cardData.section1,(data)=>{
                   return(
                       <td className="row">
-                        <CardMin title={data.title}/>
+                        <CardMin {...data}/>
                       </td>
                   )
                 })}
