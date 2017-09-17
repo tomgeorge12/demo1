@@ -18,6 +18,14 @@
   background-image: url('/images/body.jpg');
 
 }
+.tableMain{
+  padding-bottom: 250px;
+  background-color: #ffffff;
+  position: relative;
+	max-width: 950px;
+	margin: auto;
+  background-image: url('/images/body.jpg');
+}
 /*
 .all-cards-section{
   margin-bottom: 300px;

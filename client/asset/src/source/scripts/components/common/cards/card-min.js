@@ -10,7 +10,7 @@ class CardMin extends Component {
 
   render() {
     return (
-        <div className='card-min'>
+        <div className={this.props.className ? this.props.className :'card-min'}>
           {this.props.title}
         </div>
     );

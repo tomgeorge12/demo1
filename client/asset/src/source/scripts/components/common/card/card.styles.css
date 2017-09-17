@@ -33,6 +33,10 @@
   margin: 8px;
   background-color: #ad2828;
 }*/
+.row{
+  border: 1px;
+}
+
 
 .columns {
   /*-webkit-column-count: auto;
